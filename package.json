@@ -1,0 +1,15 @@
+{
+  "name": "stringify",
+  "version": "1.0.0",
+  "description": "Creates a simple string version it's inputs",
+  "main": "index.js",
+  "github": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stringify"
+  ],
+  "author": "Cheenar Gupte",
+  "license": "MIT"
+}
